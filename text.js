@@ -1,2 +1,2 @@
-var s="PounkumarGenious"
+var s="Pounkumar"
 console.log(s);
